@@ -1,0 +1,1 @@
+This project explains how a system schedules multiple tasks using basic Data Structures and Algorithms. Tasks are managed using queues or priority queues and executed based on simple rules like arrival order or priority, helping understand core scheduling concepts in an easy way.
